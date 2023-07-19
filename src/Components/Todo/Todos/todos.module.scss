@@ -1,0 +1,11 @@
+.todos {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  grid-template-columns: 350px 350px 350px;
+  gap: 2rem 2rem;
+  > div {
+    padding: 0.5rem 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0 5px 15px;
+  }
+}
