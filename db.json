@@ -1,27 +1,14 @@
 {
   "blogs": [
     {
-      "id": 1,
-      "name": "Adam Smith",
-      "email": "sebastian@codingthesmartway.com"
+      "name": "okkkkkkkkkk",
+      "email": "okkk@gmail.com",
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "George Lore",
-      "email": "sebastian@codingthesmartway.com"
-    },
-    {
-      "id": 3,
-      "name": "John Doe",
-      "email": "sebastian@codingthesmartway.com   "
-    },
-    {
-      "name": "hassan",
-      "email": "hassan@gmail.com",
-      "id": 4
-    },
-    {
-      "id": 5
+      "name": "HASSAN ABRAR",
+      "email": "hassan2102@gmail.com",
+      "id": 2
     }
   ]
 }

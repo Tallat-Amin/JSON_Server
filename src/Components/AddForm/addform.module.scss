@@ -1,2 +1,9 @@
 .main {
+  font-size: 1.25rem;
+  input[type="text"],[type="email"]{
+    width: 25%;
+    height: 30px;
+    margin: 0 10px;
+    font-size: inherit;
+  }
 }
