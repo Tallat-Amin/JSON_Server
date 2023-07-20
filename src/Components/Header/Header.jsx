@@ -11,7 +11,7 @@ const Header = () => {
         {/*  type="text"*/}
         {/*  className={styles.input}*/}
         {/*  // onChange={handleSearch}*/}
-        {/*  placeholder={"Enter todo...."}*/}
+        {/*  placeholder={"Enter name"}*/}
         {/*/>*/}
         <div className={styles.add_button}>
           <AddForm />
