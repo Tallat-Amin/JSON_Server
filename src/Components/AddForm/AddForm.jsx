@@ -1,7 +1,7 @@
 import styles from "./addform.module.scss";
-import { useRef, useState } from "react";
+import { useState } from "react";
 import axios from "axios";
-import GetContact, {URL} from "../GetContact/GetContact"
+import { URL } from "../GetContact/GetContact";
 const AddForm = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
@@ -20,7 +20,7 @@ const AddForm = () => {
   };
   return (
     <div className={styles.main}>
-      <form onSubmit={handleSubmit} >
+      <form onSubmit={handleSubmit}>
         <label htmlFor="name">Name: </label>
         <input
           type="text"
