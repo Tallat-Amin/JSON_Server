@@ -23,9 +23,7 @@ const UpdateModal = ({ id, name, email, closeModal }) => {
     event.preventDefault();
     try {
       const temp_obj = { name: updatedName, email: updatedEmail };
-      console.log(id);
       await axios.put(`${URL}/${id}`, temp_obj);
-      console.log("New contact added!");
     } catch (e) {
       console.log(e.message);
     }
