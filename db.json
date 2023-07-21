@@ -1,14 +1,19 @@
 {
   "blogs": [
     {
-      "name": "okkkkkkkkkk",
-      "email": "okkk@gmail.com",
+      "name": "Tenetur sed at optio",
+      "email": "lecos@mailinator.com",
       "id": 1
     },
     {
-      "name": "HASSAN ABRAR",
-      "email": "hassan2102@gmail.com",
+      "name": "Sint adipisicing co",
+      "email": "jesy@mailinator.com",
       "id": 2
+    },
+    {
+      "name": "In perspiciatis pos",
+      "email": "zywubis@mailinator.com",
+      "id": 3
     }
   ]
 }
